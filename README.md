@@ -13,7 +13,7 @@ A general-purpose extensible semantic notation framework
 
 - Object representation: file.
 - Markup language: Markdown + YAML frontmatter.
-- State sync: git
+- State sync: git?
 - Service: programs executed during CI
 - Tools: text editor, CLI client
 
