@@ -1,0 +1,21 @@
+status:
+  - BACKLOG
+  - TODO
+  - WAITING
+  - IN-PROGRESS
+  - REVIEW
+  - BETA
+  - PROD
+  - DONE
+
+dev:
+  name: string
+  email: string
+
+task: 
+  assignee:
+    - dev
+  status: status
+  scheduled: datetime
+  deadline: datetime
+
