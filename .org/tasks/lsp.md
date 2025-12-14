@@ -17,7 +17,7 @@ A LSP implementation which provides auto-formatting, error detection, autocomple
 
 ## Why
 
-Better UX with Strider
+Better UX
 
 ## AC
 
