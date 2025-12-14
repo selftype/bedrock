@@ -5,8 +5,6 @@ assignee:
 
 status: TODO
 
-x-link: [selftype.org](https://selftype.org)
-
 scheduled: 2025-12-20
 deadline: 2025-12-25
 ---
